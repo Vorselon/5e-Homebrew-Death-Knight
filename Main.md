@@ -25,7 +25,7 @@ You start with the following items, plus anything provided by your background.
 |--|--|--|--|--|
 |1|+2|Fighting Style|-|2| 
 |2|+2|Runeforging, Runic Power|4|2|
-|3|+2|Presence|6|2|
+|3|+2|Runic Presence|6|2|
 |4|+2|Ability Score Improvement|8|2| 
 |5|+3|Presence Feature|10|2|
 |6|+3|Horn of Winter, Death and Decay|12|3|
