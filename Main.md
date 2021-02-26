@@ -86,7 +86,7 @@ Whenever you take acid, cold, fire, lightning, or thunder damage, you may spend 
 
 
 ## Runic Empowerment
-Certain Runic abilities can be pushed to even greater levels of devastation. Whenever you use an ability with Runic Empowerment in its description, you can spend a corresponding number of extra Runic Power points to enhance the ability's effects even further.
+Certain Runic abilities can be pushed to even greater levels of devastation. Whenever you use an ability with Runic Empowerment in its description, you can spend a corresponding number of extra Runic Power points to enhance the ability's effects even further. If there are multiple options for empowering an ability, you can only choose one per use of the ability.
 
 ## Empowerment Limit
 Due to the potency of Runic Power, you are only able to expend a limited amount of Runic Power on Runic Empowerment. This limit is based on your Death Knight level, as shown in the Empowerment Limit column.
