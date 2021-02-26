@@ -74,12 +74,12 @@ Some of your Runic Power features require your target to make a saving throw to 
 ### Death Grip
 You can spend 1 Runic Power to to attempt to pull a creature within 30 feet towards you as a bonus action. The creature must be no more than one size larger than you. The creature must make a Strength saving throw against your Runic Power DC.
 
-Runic Empowerment: You can spend 1 Runic Power to increase the range of Death Grip by 15 feet, or to increase the save DC by 3.
+Runic Empowerment: You can spend 1 Runic Power to increase the range of Death Grip by 15 feet, or to increase the save DC by 2.
 
 ### Blood Boil
 You can spend 1 Runic Power as an action to send out a wave of disease from yourself. Each creature of your choosing in a 10 foot radius around you must succeed on a Constitution saving throw or be poisoned for 1 minute.
 
-Runic Empowerment: You can spend 1 Runic Power to increase the the radius by 5 feet or to increase the save DC by 3.
+Runic Empowerment: You can spend 1 Runic Power to increase the the radius by 5 feet or to increase the save DC by 2.
 
 ### Anti-Magic Shell
 Whenever you take acid, cold, fire, lightning, or thunder damage, you may spend 1 Runic Power as a reaction to gain resistance to the triggering damage type until the start of your next turn.
@@ -132,6 +132,18 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ### Mind Freeze
 7th Level Feature
 Whenever you hit with a weapon attack, you may expend 3 Runic Power to freeze the mind of your target. A creature affected by Mind Freeze has disadvantage on saving throws made to maintain its concentration until the end of your turn.
+
+### Chains of Ice
+7th Level Feature
+1 runic power, 30 foot range, action, creature within range must succeed on a Strength saving throw or have their movement speed reduced by half.
+
+Empowerment: Spend 1 Runic Power to increase the range by 30 feet or increase the save DC by 2.
+
+### Remorseless Winter
+15th Level Feature
+5 runic power, 5 foot radius centered on you, lasts until the end of your next turn. upon entering, creature of your choice has to make con save or be petrified for one minute. end of each of its turns a creature gets to make another saving throw, ending the effect on a success.
+
+empower: as a bonus action, spend 3 runic power to extend the effect until the end of your next turn.
 
 ## Blood
 
