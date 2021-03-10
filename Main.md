@@ -69,12 +69,15 @@ Starting at 1st level, whenever you hit a creature with a melee weapon attack, y
 Starting at 2nd level, as part of a long rest, you may inscribe arcane runes onto a melee weapon you possess. Each weapon may only have one rune inscribed on them at a time. You may inscribe a number of weapons equal to your proficiency modifier.
 
 **Rune of Razorice**
- This rune empowers your weapon with ice, causing it to deal an extra d4 cold damage whenever you hit with an attack. This damage increases to a d6 at 5th level, a d8 at 11th level and a d10 at 17th level.
+
+This rune empowers your weapon with ice, causing it to deal an extra d4 cold damage whenever you hit with an attack. This damage increases to a d6 at 5th level, a d8 at 11th level and a d10 at 17th level.
 
 **Rune of the Fallen Crusader**
+
 This rune empowers your weapon with increased accuracy and tenacity. You gain a +1 to hit when you attack with a weapon with this rune and whenever you deal damage with this weapon you gain temporary hitpoints equal to the damage you dealt.
 
 **Rune of the Stoneskin Gargoyle** 
+
 This rune empowers your weapon with increased defense. While wielding a weapon with this rune you gain a +2 bonus to your armor class.
 
 ## Runic Power
