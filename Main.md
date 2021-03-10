@@ -117,6 +117,7 @@ Whenever you hit with a weapon attack, you may spend X Runic Power to [deal maxi
 
 ### On a Pale Horse
 3rd Level Feature
+
 Your movement speed is increased by 5 feet when on foot and by 10 feet when mounted. This is increased to 10 feet on foot and 20 feet while mounted at 11th level, and to 15 feet on foot and 30 feet while mounted at 18th level.
 
 ### Howling Blast
