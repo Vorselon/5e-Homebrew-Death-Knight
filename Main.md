@@ -61,6 +61,22 @@ When you engage in two-weapon fighting, you can add your ability modifier to the
 ### Interception
 When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a simple or martial weapon to use this reaction.
 
+## Death Strike
+Starting at 1st level, whenever you hit a creature with a melee weapon attack, you may choose to gain an amount of hitpoints equal to the damage you deal. You can do this a number of times equal to your proficiency bonus. You regain all uses of this ability whenever you finish a short or long rest.
+
+## Runeforging
+
+Starting at 2nd level, as part of a long rest, you may inscribe arcane runes onto a melee weapon you possess. Each weapon may only have one rune inscribed on them at a time. You may inscribe a number of weapons equal to your proficiency modifier.
+
+**Rune of Razorice**
+ This rune empowers your weapon with ice, causing it to deal an extra d4 cold damage whenever you hit with an attack. This damage increases to a d6 at 5th level, a d8 at 11th level and a d10 at 17th level.
+
+**Rune of the Fallen Crusader**
+This rune empowers your weapon with increased accuracy and tenacity. You gain a +1 to hit when you attack with a weapon with this rune and whenever you deal damage with this weapon you gain temporary hitpoints equal to the damage you dealt.
+
+**Rune of the Stoneskin Gargoyle** 
+This rune empowers your weapon with increased defense. While wielding a weapon with this rune you gain a +2 bonus to your armor class.
+
 ## Runic Power
 Starting at 2nd level, you gain access the energy of undeath, Runic Power. Your access to this energy is represented by a number of Runic Power points. Your Death Knight level determines your maximum number of Runic Power points as shown in the Runic Power table (starts with 4 at level 2 and increases by 2 per level taken in Death Knight).
 
