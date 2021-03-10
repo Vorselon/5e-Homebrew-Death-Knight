@@ -131,8 +131,9 @@ Starting at 10th level, you can spend 3 Runic Power as an action, causing you to
 ## Frost
 ### Obliterate
 3rd Level Feature
+Whenever you hit with a melee weapon attack, you may spend 1 Runic Power to increase the damage die of your weapon for this attack by 1. For example, if your weapon normally deals 1d6 damage, increasing the damage die size by 1 would make it deal 1d8 damage.
 
-Whenever you hit with a weapon attack, you may spend X Runic Power to [deal maximum damage instead of rolling] | [increase the damage die of your weapon for this attack by 1 ie d4 goes to d6, d6 to d8 etc] ONLY ONE NOT SURE WHICH | IF SECOND: You may increase the die multiple times by expending a corresponding amount of Runic Power. 
+Runic Empowerment: You may increase the die multiple times by expending a corresponding amount of Runic Power.
 
 ### On a Pale Horse
 3rd Level Feature
@@ -194,29 +195,34 @@ As a bonus action in combat, you may spend 2 Runic Power to spend one hit die. R
 
 ## Unholy
 
-### Raise Dead
+### Undead Minion
 3rd Level Feature
-you get the undead retard he isnt shit
-
-### All Will Serve
-15?
-Summon additional undead ally, only one can gain the benefit of Coordinated Attack
+Beginning when you choose this archetype at 3rd level, you gain the ability to create a loyal undead minion to serve you. You can raise a minion by spending 10 minutes performing a ritual over the corpse of any small or medium creature. Choose an undead type no larger than medium and that has a challenge rating of 1 or lower (examples include a zombie or skeleton). Add your proficiency bonus to the minion’s AC, attack rolls, and damage rolls, as well as to any  saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your death knight level, whichever is higher. The minion obeys your commands as best as it can. It takes its turn on your initiative, though it doesn’t take an action unless you command it to. On your turn, you can mentally command the minion to move (no action required by you). You can use your bonus action  to mentally command it to take the attack action, dash action, disengage action, dodge action, or help action. You can only have one minion at a time. If you try to create a second minion when you already have one, the old one turns back into a corpse.
 
 ### Corpse Shield
-3?
-When you are hit by an attack, spend x runic power to cause half of the damage you would normally take be redirected to your undead ally.
+3rd Level Feature
+When you are hit by an attack, you can spend 2 runic power to cause half of the damage you would normally take be redirected to your undead ally.
 
-### Coordinated Attack
+### Coordinated Attack 
+5th Level Feature
+Beginning at 5th level, you and your undead minion form a more potent fighting team. When you use the Attack action on your turn, if your minion can see you, it can use its reaction to make a melee attack.
 
 ### Clawing Shadows
-Starting at 7th level you can spend 1 Runic Power on your turn to give your attacks 30 foot reach until the start of your next turn
+7th Level Feature
+Starting at 7th level you can spend 1 Runic Power on your turn to give your attacks 30 foot reach until the start of your next turn.
 
 ### Corpse Explosion
-spend x runic power to cause a corpse within 60 feet to explode dealing xd8 bludgeoning + xd8 necrotic damage to all creatures within x foot radius
+11th Level Feature
+You can spend 3 runic power to cause a corpse within 60 feet to explode. All creatures within a 10 foot radius must make a Dexterity saving throw, taking 4d8 bludgeoning and 4d8 necrotic damage on a failed save, or half on a successful one.
 
 ### Improved Death and Decay
-Starting at 11th level, whenever you hit a creature in your Death and Decay with a weapon attack, you can spend 4 Runic Power to cause the attack to cleave to all other creatures of your choice that are also in your Death and Decay.
+15th Level Feature
+Starting at 15th level, whenever you hit a creature in your Death and Decay with a weapon attack, you can spend 4 Runic Power to cause the attack to cleave, dealing half the damage of your attack to all other creatures of your choice that are also in your Death and Decay.
 
 Runic Empowerment: You can spend 2 Runic Power to cause all creatures hit by your cleave attack to take necrotic damage equal to your intelligence modifier.
+
+### All Will Serve
+18
+Summon additional undead ally of higher cr
 
 
