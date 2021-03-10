@@ -115,7 +115,9 @@ Starting at 10th level, you can spend 3 Runic Power as an action, causing you to
 
 Whenever you hit with a weapon attack, you may spend X Runic Power to [deal maximum damage instead of rolling] | [increase the damage die of your weapon for this attack by 1 ie d4 goes to d6, d6 to d8 etc] ONLY ONE NOT SURE WHICH | IF SECOND: You may increase the die multiple times by expending a corresponding amount of Runic Power. 
 
-
+### On a Pale Horse
+3rd Level Feature
+Your movement speed is increased by 5 feet when on foot and by 10 feet when mounted. This is increased to 10 feet on foot and 20 feet while mounted at 11th level, and to 15 feet on foot and 30 feet while mounted at 18th level.
 
 ### Howling Blast
 3rd Level Feature
