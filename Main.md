@@ -142,6 +142,11 @@ Whenever you hit with a weapon attack, you may expend 3 Runic Power to freeze th
 
 Empowerment: Spend 1 Runic Power to increase the range by 30 feet or increase the save DC by 2.
 
+### Killing Machine
+11th Level Feature
+
+Whenever you reduce a creature to 0 hitpoints, the next melee attack you make until the end of your next turn is guaranteed to be a critical hit. 
+
 ### Remorseless Winter
 15th Level Feature
 5 runic power, 5 foot radius centered on you, lasts until the end of your next turn. upon entering, creature of your choice has to make con save or be petrified for one minute. end of each of its turns a creature gets to make another saving throw, ending the effect on a success.
