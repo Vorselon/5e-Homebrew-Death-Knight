@@ -185,6 +185,12 @@ When you are hit by an attack, as a reaction you can spend 1 Runic Power to caus
 
 Runic Empowerment: You can spend 1 Runic Power to gain an extra +1 bonus to your armor class.
 
+### Dark Command
+3rd Level Feature
+As a bonus action on your turn, you can spend 1 Runic Power to command a creature to turn their attacks towards you. They must make a wisdom saving throw. On a fail, any attacks they make until the start of your next turn have disadvantage against all targets except you.
+
+Runic Empowerment: You can spend Runic Power to target a number of creatures equal to the amount of Runic Power spent.
+
 ### Extra Attack
 5th Level Feature
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
