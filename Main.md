@@ -158,7 +158,7 @@ Whenever you hit with a weapon attack, you may expend 3 Runic Power to freeze th
 
 ### Chains of Ice
 7th Level Feature
-1 runic power, 30 foot range, action, creature within range must succeed on a Strength saving throw or have their movement speed reduced by half.
+1 runic power, 30 foot range, action, creature within range must succeed on a Strength saving throw or have their movement speed reduced to 0 for 1 minute.  At the end of each of its turns, a creature can make another saving throw, ending the effect on a success.
 
 Empowerment: Spend 1 Runic Power to increase the range by 30 feet or increase the save DC by 2.
 
